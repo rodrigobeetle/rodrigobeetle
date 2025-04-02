@@ -1,4 +1,5 @@
 # Welcome to @rodrigobeetle
+I'm a:
 - 👨‍💻 C++ Programmer
 - 🎮 C# Gamedev
 - 🌐 Web Developer
